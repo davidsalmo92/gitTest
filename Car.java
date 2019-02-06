@@ -15,7 +15,7 @@ public abstract class Car implements Movable{
     private double dy;
     private double x;
     private double y;
-
+    //hello -Daniel
     /**
      * Construct a car with some different properties.
      * @param nrDoors specifies the number of doors the car has.
